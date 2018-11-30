@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Asterix.gif</file>
+        <file>Centurion.gif</file>
+        <file>Cesar.gif</file>
+        <file>Decurion.gif</file>
+        <file>Legionnaire.gif</file>
+        <file>Obelix.gif</file>
+        <file>Sanglier.gif</file>
+        <file>VILLAGE.jpg</file>
+        <file>Idefix.png</file>
+        <file>Village.jpeg</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>Asterix.mp3</file>
+    </qresource>
+</RCC>
