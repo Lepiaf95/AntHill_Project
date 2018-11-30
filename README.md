@@ -1,10 +1,13 @@
-## For playing this game, you need to :
+##  Npm install
+
+Run `npm install` for installing the "node-modules" files.
 
 
-1)  Install Qt Creator
+##  Docker-compose
 
+Run `docker-compose up` for running the servers.
 
-2) Go to /AntHill_1stGame/build-AntHill-Desktop_Qt_5_10_1_clang_64bit-Debug
+##  Postman
 
+Use `postman` for seeing the result.
 
-3) Run the file `AntHill`
